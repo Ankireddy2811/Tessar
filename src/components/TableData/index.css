@@ -63,7 +63,7 @@
     list-style: none;
     background-color: blue;
     height: 70px;
-    width: 100%;
+    width: 110%;
 }
 
 .label-item{
@@ -71,6 +71,7 @@
     font-family: "Roboto";
     font-size: 15px;
     width: 10%;
+    
 }
 
 .text-container{
@@ -80,7 +81,7 @@
     align-items: center;
     height: 11vh;
     margin-top: 10px;
-    width: 100%;
+    width: 110%;
     
 }
 
