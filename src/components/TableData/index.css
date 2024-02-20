@@ -63,6 +63,7 @@
     list-style: none;
     background-color: blue;
     height: 70px;
+    width: 100%;
 }
 
 .label-item{
@@ -79,7 +80,7 @@
     align-items: center;
     height: 11vh;
     margin-top: 10px;
-   
+    width: 100%;
     
 }
 
@@ -87,9 +88,8 @@
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    margin-right: 3px;
+    margin-left: auto;
     flex-shrink: 0;
-    
     height: 100px;
     width: 130px;
 
