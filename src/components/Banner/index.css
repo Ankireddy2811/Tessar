@@ -1,0 +1,41 @@
+.banner-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.banner-text-container{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+.form-controls{
+    width: 300px;
+    border-radius: 20px;
+    height: 30px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.create-button{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    color: #653c9e;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.plus-symbol{
+    height: 20px;
+    width: 40px;
+    background-color:#653c9e;
+    padding: 5px;
+    color: #ffffff;
+    margin-left: 5px;
+}

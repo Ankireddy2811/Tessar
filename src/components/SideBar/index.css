@@ -1,0 +1,76 @@
+.sidebar-container{
+    width: 15%;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    margin-left: 5px;
+    padding: 10px 20px 40px 10px;
+    height: 100vh;
+
+    
+   
+}
+.logo-heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+}
+.round-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: black;
+    color: black;
+    margin-right: 10px;
+}
+
+.sidebar-header{
+    display: flex;
+    align-items: center;
+   
+}
+.content-container{
+    list-style-type: none;
+    width: 100%;
+    padding-left: 30px;
+   
+    
+}
+.each-item{
+    display: flex;
+    align-items: center;
+   
+    height: 70px;
+   
+}
+.sidebar-image{
+    height: 30px;
+    width: 30px;
+    background-color: transparent;
+    border-radius: 7px;
+}
+.sidebar-each-heading{
+    font-size: 17px;
+    color: #bfbfbf;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.two-content-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.styled-each-item{
+  border-radius: 60px;
+  background-color: #b7ddeb;
+  border: none;
+  width: 90%;
+  padding-left:10px;
+  
+}
+
+.styled-each-text-item{
+    color: skyblue;
+}
